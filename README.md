@@ -36,4 +36,4 @@ The core physics module is heavily adapted from [this project](https://github.co
 
 ## Demo
 
-The demo is in the ```VR_Simulator.unity```.
+The demo is in the ```Assets/UnityAirline/Scenes_and_Scripts/Scenes/VR_Simulator.unity```.
