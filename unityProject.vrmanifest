@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.nuovo_flishtsimulator.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Giuseppe Di Maria\\OneDrive\\Documenti\\VarLabProjects\\Nuovo_fligth_simulator\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Nuovo_FlishtSimulator [Testing]"
+        }
+      }
+    }
+  ]
+}

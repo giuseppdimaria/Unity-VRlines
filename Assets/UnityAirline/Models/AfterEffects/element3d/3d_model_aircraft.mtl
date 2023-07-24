@@ -1,0 +1,48 @@
+newmtl Body
+Kd 0.749020 0.749020 0.749020
+Ks 1.000000 1.000000 1.000000
+Ke 1.000000 1.000000 1.000000
+Ns 3.340001
+Tr 0.000000
+d 1.000000
+Ni 1.500000
+map_Kd -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Custom Layer 1
+map_Ks -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/airliner_alternative_specular.jpg
+bump -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/airliner_normal.jpg
+refl -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/airliner_alternative_reflection.jpg
+
+newmtl Interior
+Kd 0.866667 0.866667 0.866667
+Ks 0.603922 0.603922 0.603922
+Ke 1.000000 1.000000 1.000000
+Ns 2.000000
+Tr 0.000000
+d 1.000000
+Ni 1.500000
+map_Kd -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/airliner_interior_diffuse.jpg
+map_Ks -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/airliner_interior_specular.jpg
+bump -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/airliner_interior_normal.jpg
+refl -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/airliner_interior_specular.jpg
+
+newmtl Glass
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 10.000000
+Tr 0.100000
+d 0.900000
+Ni 1.500000
+
+newmtl Pilot
+Kd 1.000000 1.000000 1.000000
+Ks 0.678431 0.678431 0.678431
+Ke 0.000000 0.000000 0.000000
+Ns 0.640000
+Tr 0.000000
+d 1.000000
+Ni 1.500000
+map_Kd -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/pilot_com_Diffuse.jpg
+map_Ks -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/pilot_com_specular.jpg
+bump -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/pilot_com_Normal.jpg
+refl -o 0.000000 0.000000 -s 1.000000 1.000000 D:/Element3D/VideoCopilot/Models/Jet_Strike_Maps/pilot_com_specular.jpg
+

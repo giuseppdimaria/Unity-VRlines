@@ -8,7 +8,7 @@
 | [IFIP ICEC '23 Oral](https://icec23.cs.unibo.it/) | [paper](https://arxiv.org/abs/2112.10752) |
 
 <p align="center">
-  <img src="PlaneFisica/Images/aircraft.png" width="350">
+  <img src="images\aircraft.png" width="350">
 </p>
 
 ```
