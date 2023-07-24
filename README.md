@@ -23,11 +23,11 @@ For this reason, we here introduce Unity-VRlines, an open-source modular virtual
 
 ## Requirements
 * [Unity 2021.3.21f1](https://unity.com/releases/editor/archive#download-archive-2021)
-* [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin/releases/tag/2.7.3) 
+* [SteamVR v2.7.3](https://github.com/ValveSoftware/steamvr_unity_plugin/releases/tag/2.7.3) 
 
 ## Features 
 * Plane the aircraft with both Keyboard and HTC-Vive in the Bologna Airport Area; 
-* Camera view switch with Kinematics in VR-mode;
+* Camera view switch with Kinematics in VR mode;
 * Guided In-Game Tutorial;
 
 ## References
